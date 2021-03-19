@@ -8,12 +8,12 @@ public class Classes
 
 	public Classes()
 	{
-        public static void getAssignments()
+        static void getAssignments()
         {
 
         }
 
-        public static void getDueDates()
+        static void getDueDates()
         {
 
         }
